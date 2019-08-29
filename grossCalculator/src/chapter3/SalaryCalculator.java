@@ -3,7 +3,7 @@ package chapter3;
 import java.util.Scanner;
 
 /*
-IF statment
+IF statement
 All salespeople get a payment of $100 a week
 Salespeople whe exceed 10 sales get an additional bonus of $250.
  */
