@@ -17,10 +17,10 @@ public class QuotaCalculator {
         scanner.close();
 
         // Make a decision on the path to take - Output
-        if (sales >= quota) {
+        if (sales >= quota)
             System.out.println("Congrats quota met!!");
 
-        } else {
+         else {
             int salesShort = quota - sales;
             System.out.println("You were short from your quota by: " + salesShort);
         }
